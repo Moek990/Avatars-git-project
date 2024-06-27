@@ -9,6 +9,7 @@ public class Testing {
         System.out.println("We Got Thisss");
         System.out.println("Pushing again ");
         System.out.println("This is fun");
+        System.out.println("this is easy");
 
     }
 }
