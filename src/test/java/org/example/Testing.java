@@ -7,6 +7,8 @@ public class Testing {
         System.out.println("I can not wait to get a job soon");
         System.out.println("I am excited for a new job");
         System.out.println("We Got Thisss");
+        System.out.println("Pushing again ");
+        System.out.println("This is fun");
 
     }
 }
