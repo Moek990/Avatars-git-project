@@ -5,5 +5,8 @@ public class Testing {
         System.out.println("hello world");
         System.out.println("I am having a good time");
         System.out.println("I can not wait to get a job soon");
+        System.out.println("I am excited for a new job");
+        System.out.println("We Got Thisss");
+
     }
 }
